@@ -1,2 +1,13 @@
-Primer commit hecho a https://github.com/AlexDays89/AlexDays89.github.io 
-Se hicieron cambios visualez en portada y footer, ademas de agregar comentario para mejor navegacion en el archivo index
+Módulo 1 DesafíoLatam
+
+Buenas tardes se creo curriculum y portafolios que pueden ingresarse mediante boton, ademas de agregar link para regresar al index de este proyecto
+
+Se hicieron fork a compañero Alejandro Dias  https://github.com/AlexDays89/AlexDays89.github.io 
+Se hicieron cambios visualez en portada y footer, ademas de agregar comentario para mejor navegacion en el archivo index.
+
+Y Segundo Fork a la compañera Juñiana Natsuki : https://github.com/Juliana-hn/Juliana-hn.github.io
+Se cambio el style de 2 fondos para que el tamaño no fuese en pixeles si no que auto, de esta manera no se solapara en las versiones mobile,
+tambien en la seccion educacion se cambio el col unico que tenia por "col-xs-4 col-md-3 m-4 p-4" para que de esta manera se vieran mas ordenados en versiones mas pequeñas que la pantalla completa
+
+Eso! que tengan buen fin de semana!
+
